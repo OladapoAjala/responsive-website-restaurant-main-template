@@ -1,0 +1,410 @@
+/*===== GOOGLE FONTS =====*/
+@import url("");
+
+/*===== VARIABLES CSS =====*/
+:root {
+
+    /*========== Colors ==========*/
+
+    /*========== Font and typography ==========*/
+
+    /*========== Font weight ==========*/
+
+    /*========== Margenes ==========*/
+
+    /*========== z index ==========*/
+
+}
+
+@media screen and (min-width: 768px) {
+    :root {
+
+    }
+}
+
+/*========== BASE ==========*/
+*,::before,::after {
+
+}
+
+html {
+
+}
+
+/*========== Variables Dark theme ==========*/
+body.dark-theme {
+
+}
+
+/*========== Button Dark/Light ==========*/
+.change-theme {
+
+}
+
+body {
+
+}
+
+h1, h2, h3, p, ul {
+
+}
+
+ul {
+
+}
+
+a {
+
+}
+
+img {
+
+}
+
+/*========== CLASS CSS ==========*/
+.section {
+
+}
+
+.section-title, .section-subtitle {
+
+}
+
+.section-title {
+
+}
+
+.section-subtitle {
+
+}
+
+/*========== LAYOUT ==========*/
+.bd-container {
+
+}
+
+.bd-grid {
+
+}
+
+.l-header {
+
+}
+
+/*========== NAV ==========*/
+.nav {
+
+}
+
+@media screen and (max-width: 768px) {
+    .nav__menu {
+
+    }
+}
+
+.nav__item {
+
+}
+
+.nav__link, .nav__logo, .nav__toggle {
+
+}
+
+.nav__logo:hover {
+
+}
+
+.nav__link {
+
+}
+
+.nav_link:hover {
+
+}
+
+.nav___toggle {
+
+}
+
+/* Show menu */
+.show-menu {
+
+}
+
+/* Active menu */
+.active-link {
+
+}
+
+/* Change background header */
+.scroll-header {
+    
+}
+
+/* Scroll top */
+.scrolltop {
+
+}
+
+.scrolltop:hover {
+
+}
+
+.scrolltop__icon {
+
+
+}
+
+/* Show scrolltop */
+.show-scroll {
+
+}
+
+/*========== HOME ==========*/
+.home__container {
+
+}
+
+.home__title {
+
+}
+
+.home__subtitle {
+
+}
+
+.home__img {
+
+}
+
+/*========== BUTTONS ==========*/
+.button {
+
+}
+
+.button:hover {
+
+}
+
+/*========== ABOUT ==========*/
+.about__data {
+
+}
+
+.about__description {
+
+}
+
+.about__img {
+
+}
+
+/*========== SERVICES ==========*/
+.services__container {
+
+}
+
+.services__content {
+
+}
+
+.services__img {
+
+}
+
+.services__title {
+
+}
+
+.services__description {
+
+}
+
+/*========== MENU ==========*/
+.menu__container {
+
+}
+
+.menu__content {
+
+}
+
+.menu__img {
+
+}
+
+.menu__name, .menu__preci {
+
+}
+
+.menu__name {
+
+}
+
+.menu__detail, .menu__preci {
+
+}
+
+.menu__detail {
+
+}
+
+.menu__button {
+
+}
+
+/*========== APP ==========*/
+.app__data {
+
+}
+
+.app__description {
+
+}
+
+.app__stores {
+
+}
+
+.app__store {
+
+}
+
+.app_img {
+
+}
+
+/*========== CONTACT ==========*/
+.contact__container {
+
+}
+
+.contact__description {
+
+}
+
+/*========== FOOTER ==========*/
+.footer__container {
+
+}
+
+.footer__logo {
+
+}
+
+.footer__description {
+
+}
+
+.footer_social {
+
+}
+
+.footer__title {
+
+}
+
+.footer__link {
+
+}
+
+.footer__link:hover {
+
+}
+
+.footer__copy {
+
+}
+
+/*========== MEDIA QUERIES ==========*/
+@media screen and (min-width: 576px) {
+    .home__container,
+    .about__container,
+    .app__container {
+
+    }
+
+    .about__data, .about__initial,
+    .app__data, .app__initial,
+    .contact__container, .contact__initial {
+
+    }
+
+    .about__img, .app__img {
+
+    }
+
+    .contact__container {
+
+    }
+
+    .contact__button {
+
+    }
+}
+
+@media screen and (min-width: 768px) {
+    body {
+
+    }
+
+    .section {
+
+    }
+
+    .nav {
+
+    }
+
+    .nav__list {
+
+    }
+
+    .nav__item {
+
+    }
+
+    .nav__toggle {
+
+    }
+
+    .change-theme {
+
+    }
+
+    .home__container {
+
+    }
+
+    .services__container,
+    .menu__container {
+
+    }
+
+    .menu__content {
+
+    }
+
+    .menu__img {
+
+    }
+
+    .app__store {
+
+    }
+}
+
+@media screen and (min-width: 960px) {
+    .bd-container {
+
+    }
+
+    .home__img {
+
+    }
+
+    .about__container,
+    .app__container {
+
+    }
+}
